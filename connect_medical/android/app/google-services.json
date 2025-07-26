@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582609038420",
+    "project_id": "medcircle-7abd6",
+    "storage_bucket": "medcircle-7abd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582609038420:android:4b008e54215d96870591c1",
+        "android_client_info": {
+          "package_name": "com.example.connect_medical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnh5UF1iFr-WAzUccDx2AnpjH7lzH6Z4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
